@@ -7,5 +7,7 @@ The code is information from the book Paul, C. R. (2009). Inductance: Loop and P
 
 If you intend to use this code in your research, PLEASE CITE OUR ARTICLE.
 
+In case of any questions about the code, don't hesitate to contact me at denis.burov@proton.me
+
 Best regards,
 Denis Burov
